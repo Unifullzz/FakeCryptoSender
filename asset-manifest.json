@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0edefa7b.css",
+    "main.js": "/static/js/main.b953f5a9.js",
+    "static/media/receiver.jpg": "/static/media/receiver.a14dbece467cf3c7b25d.jpg",
+    "static/media/sender.jpg": "/static/media/sender.94b0028041cef99cae26.jpg",
+    "static/media/sent.jpg": "/static/media/sent.1a607e7deab78087d8a4.jpg",
+    "static/media/received.jpg": "/static/media/received.5d3047ace8300e57d925.jpg",
+    "index.html": "/index.html",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.f7a54c2c024b0e02fc4c7e6a9818fe07.svg",
+    "static/media/bitcoincash.svg": "/static/media/bitcoincash.8a8d806aba437a150716f2e936450cf2.svg",
+    "static/media/tether.svg": "/static/media/tether.3bf7b6e07178d9f46c36e9506a85a933.svg",
+    "static/media/litecoin.svg": "/static/media/litecoin.f711d74b01c47551ac2ca603e3cbfc38.svg",
+    "static/media/ethereum.svg": "/static/media/ethereum.909ca41de9e5df52380cea70cd9a529a.svg",
+    "main.0edefa7b.css.map": "/static/css/main.0edefa7b.css.map",
+    "main.b953f5a9.js.map": "/static/js/main.b953f5a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0edefa7b.css",
+    "static/js/main.b953f5a9.js"
+  ]
+}
